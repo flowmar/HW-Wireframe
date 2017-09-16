@@ -37,6 +37,10 @@
     - font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     - font-size: 18px
 
+    ## Copyright
+
+    Coding Boot Camp © 2016. All Rights Reserved.
+
 ---
 
 ## Deployment
